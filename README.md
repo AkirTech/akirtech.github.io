@@ -9,7 +9,7 @@ I am just an ordinary middle school student,after all!
 ### EFC Tech..... is what?
 Well, a mini company located in Guanghan,Sichuan,China.  
 Here is the icon of us  
-![This is our icon.](mcmjun.github.io/资产/EFC TECH..png "EFC TECH.")(https://mcmjun.github.io/资产/EFC TECH..png)  
+[![This is our icon.](/assets/EFC_TECH..png "Click to download")](https://mcmjun.github.io/assets/EFC_TECH..png)  
 ```html
 
     <DOCTYPE html>
@@ -18,4 +18,4 @@ Here is the icon of us
         <title>MCMjun's new website</title>
         
 ```        
-Things above is the head of my website.Stupid head right?
+Things above is the head of my website.Stupid "head" right?
