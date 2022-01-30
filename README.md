@@ -12,7 +12,7 @@ Here is the icon of us
 [![This is our icon.](/assets/EFC_TECH..png "Click to view a bigger one.")](https://mcmjun.github.io/assets/EFC_TECH..png)  
 ```html
 
-    <DOCTYPE html>
+    <!DOCTYPE html>
       <head><head>
         <meta charaset="UTF-8">
         <title>MCMjun's new website</title>
