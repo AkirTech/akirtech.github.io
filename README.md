@@ -19,5 +19,5 @@ Here is the icon of us
         
 ```        
 Things above is the head of my website.Stupid "head" right?  
-### [直接去我们的主页（以浏览器访问）](https:/mcmjun.github.io/index.html)  
+### [直接去我们的主页（以浏览器访问）](https://mcmjun.github.io/index.html)  
 No more , come back!
