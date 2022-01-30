@@ -8,6 +8,14 @@ I am just an ordinary middle school student,after all!
   
 ### EFC Tech..... is what?
 Well, a mini company located in Guanghan,Sichuan,China.  
-Here is the icon of us
+Here is the icon of us  
+![This is our icon.](mcmjun.github.io/资产/EFC TECH..png "EFC TECH.")(https://mcmjun.github.io/资产/EFC TECH..png)  
+```html
 
-
+    <DOCTYPE html>
+      <head><head>
+        <meta charaset="UTF-8">
+        <title>MCMjun's new website</title>
+        
+```        
+Things above is the head of my website.Stupid head right?
