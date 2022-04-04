@@ -10,7 +10,7 @@ I am just an ordinary middle school student,after all!
 Well, a mini company located in Guanghan,Sichuan,China.  
 Here is the icon of us  
 [![This is our icon.](/assets/EFC_TECH..png "Click to view a bigger one.")](https://mcmjun.github.io/assets/EFC_TECH..png)
-点击查看中文 [README.md](https://www.github.com/MCMjun/mcmjun.github.io/readme_zh.md)
+点击查看中文 [README.md](https://www.github.com/MCMjun/mcmjun.github.io/README_zh.md)
 
 ### [直接去我们的主页（以浏览器访问）](https://mcmjun.github.io/index.html)  
 No more , come back!
