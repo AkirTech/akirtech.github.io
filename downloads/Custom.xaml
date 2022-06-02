@@ -1,0 +1,64 @@
+<local:MyCard Title="EFC Studios Message" Margin="0,0,0,15">
+     <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721" FontSize="20"
+                   Text="为了工作室，今天也要努力奋斗！！！" />
+     </StackPanel>
+ </local:MyCard>
+
+ <local:MyCard Title="中考加油！" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+  <StackPanel Margin="25,40,23,15">
+         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#F49BC1" FontSize="17"
+                   Text="服务器，结束了……感谢！过去的一个多月，有你真好~不过，是时候说再见了……无论如何，中考加油，必胜！！" />
+      </StackPanel>
+  </local:MyCard>
+
+ <local:MyCard Title="服务器公告" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+   <StackPanel Margin="25,40,23,15">
+         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#87CEEB" FontSize="20"
+                   Text="暂无公告~  --ECF 计算机与云计算总部（绵阳）" />
+         </StackPanel>
+     </local:MyCard>                
+  
+ <local:MyCard Title="一些有用(才怪)的信息" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+     <StackPanel Margin="25,40,23,15">
+        <local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="我们的服务器使用1.18.1-Forge_39.0.59！有需要可以自己再加载optifine！" />
+     </StackPanel>
+ </local:MyCard>
+
+ <local:MyCard Title="EFC Studios的图标" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+     <StackPanel Margin="25,40,23,15">
+        <Image Height="100" HorizontalAlignment="Center" Source="https://i.postimg.cc/vZsD5ts9/EFC-STUDIOS.png" />
+     </StackPanel>
+ </local:MyCard>
+
+ <local:MyCard Title="网页快捷栏" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+     <StackPanel Margin="25,40,23,15">
+        <local:MyButton Margin="0,8,0,10" Width="250" Height="35" ColorType="Highlight"
+                   Text="打开 Wiki" EventType="打开网页" EventData="https://minecraft-zh.gamepedia.com/Minecraft_Wiki" ToolTip="点击打开 Minecraft Wiki!" />
+            <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight"
+                   Text="打开 B 站" EventType="打开网页" EventData="https://www.bilibili.com/" ToolTip="哔哩哔哩 干杯~" />
+            <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Center" Padding="13,0,13,0" ColorType="Highlight"
+                   Text="打开 postimages" EventType="打开网页" EventData="https://postimages.org/" ToolTip="Postimages" />
+            <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Right" Padding="13,0,13,0" ColorType="Highlight"
+                   Text="逛官网~" EventType="打开网页" EventData="https://mcmjun.github,io/index.html" ToolTip="EFC Tech的官网"/>
+     </StackPanel>
+ </local:MyCard>
+ 
+  <local:MyCard Title="启动游戏" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+     <StackPanel Margin="25,40,23,15">
+      <local:MyButton Margin="0,8,0,10" Width="400" Height="40" ColorType="Highlight"
+                 Text="启动 1.12.2-F+O" EventType="启动游戏" EventData="1.12.2-Forge 14.23.5.2855-OptiFine_G5" ToolTip="一起来van啊~~~"/>
+      <local:MyButton Margin="0,8,0,10" Width="400" Height="40" ColorType="Highlight"
+                 Text="启动 1.18.1(寒假)" EventType="启动游戏" EventData="1.18.1-Forge_39.0.59-OptiFine_H6" ToolTip="寒假档"/>
+     </StackPanel>
+ </local:MyCard>
+
+ <local:MyCard Title="Help(没啥卵用)" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                   Text="打开Chrome" EventType="打开文件" EventData="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                   Text="打开 PCL 日志" EventType="打开文件" EventData="Log1.txt" ToolTip="PCL2 的日志文件就在 PCL 文件夹内，且名为 Log1.txt" />
+        </StackPanel>
+     </local:MyCard>
