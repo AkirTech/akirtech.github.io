@@ -27,25 +27,27 @@
     
     function notice() 
       {
-          alert("欢迎来到我们的下载页面！")
-      }
+          alert("欢迎来到我们的下载页面！");
+      }//没啥卵用
         
         
-    function jsCopy()
+    function ShowIP()
        { 
-        var e=document.getElementById("copymaterials");//选择器：hdhcms2  
-        e.select(); //调用选择模块
-        document.execCommand("Copy"); //调用浏览器复制功能
-        alert("文字成功复制！");  
-     }
-        
+         alert("我爱绵外服务器: k2.getmc.cn:15295                                                   1.18.1生存服务器：k2.getmc.cn:15294(暂停运营) ");  
+
+       }//垃圾代码，极度生草。。。
+    function ShowBEIP()
+       {
+         alert("基岩版(创造)：k2.getmc.cn:15296 ");
+       } 
+    
     </script>
     
     </head>
     
     <body>
     
-    <!-- ***** Preloader Start *****
+    <!-- ***** Preloader Start ***** 
     <div id="preloader">
         <div class="jumper">
             <div></div>
@@ -53,7 +55,7 @@
             <div></div>
         </div>
     </div>  
-        ***** Preloader End ***** -->
+         ***** Preloader End ***** -->
     
     
     <!-- ***** Header Area Start ***** -->
@@ -63,13 +65,13 @@
                 <div class="col-12">
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
-                        <a href="index.html" class="logo">
+                        <a href="#" onclick="notice()" class="logo">
                             EFC Tech.
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
+                            <li class="scroll-to-section"><a href="/index.html" class="active">Home</a></li>
                             <li class="submenu">
                                 <a href="javascript:;">Classes</a>
                                 <ul>
@@ -117,8 +119,8 @@
                 <div class="text-content">
                   <h3>Welcome To EFC Tech.-Download Index.</h3>
                   <h5>Minecraft Things</h5>
-                  <a href="/downloads/Custom.xaml" download="Custom.xaml" class="main-stroked-button">PCL 2主页</a>
-                  <a href="https://www.123pan.com/s/2dG9-qytB3" class="main-filled-button">整合启动器包</a>
+                  <a href="https://www.123pan.com/s/2dG9-VVtB3" class="main-stroked-button">Our Mods!!!</a>
+                  <a href="https://www.123pan.com/s/2dG9-jVtB3" class="main-filled-button">整合启动器包</a>
                 </div>
             </div>
           </div>
@@ -143,7 +145,8 @@
                 <div class="text-content">
                    <h3>Our Server</h3>
                    <h5>Welcome to our server!</h5>
-                    <!--<input type="button" value="Coming soon!" onclick="jsCopy()" class="main-stroked-button"> -->
+                   <a onclick="ShowIP()" class="main-stroked-button">JE服务器地址</a> 
+                   <a onclick="ShowBEIP()" class="main-filled-button">BE服务器地址</a>
                 </div>
             </div>
           </div>
