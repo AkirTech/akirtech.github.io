@@ -1404,7 +1404,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-image: linear-gradient(145deg, #339b9e 0%, #68cc98 100%);
+  background-image: radial-gradient(circle at 4.55% -4.17%, #ffe785 0, #ffed7b 5%, #fff272 10%, #fff66b 15%, #fff865 20%, #f6fa62 25%, #dcfb62 30%, #c0fb64 35%, #9ff968 40%, #78f66f 45%, #3cf278 50%, #00ed84 55%, #00e992 60%, #00e4a3 65%, #00e0b6 70%, #00ddca 75%, #00d9df 80%, #00d6f4 85%, #00d3ff 90%, #00d0ff 95%, #00ceff 100%);
   left: 0;
   right: 0;
   top: 0;
