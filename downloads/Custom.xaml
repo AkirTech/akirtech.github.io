@@ -5,24 +5,24 @@
      </StackPanel>
  </local:MyCard>
 
- <local:MyCard Title="中考加油！" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+ <local:MyCard Title="高考再战！" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
   <StackPanel Margin="25,40,23,15">
          <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#F49BC1" FontSize="17"
-                   Text="服务器，结束了……感谢！过去的一个多月，有你真好~不过，是时候说再见了……无论如何，中考加油，必胜！！" />
+                   Text="中考已然落幕，新的起点上，吾辈仍需努力，为了更好的明天而战！加油，干就完了！！！" />
       </StackPanel>
   </local:MyCard>
 
  <local:MyCard Title="服务器公告" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
    <StackPanel Margin="25,40,23,15">
          <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#87CEEB" FontSize="20"
-                   Text="暂无公告~  --ECF 计算机与云计算总部（绵阳）" />
+                   Text="服务器：Java版1.16.5（绵外项目）;Java版1.12.2（新档！）暂无其他计划。。。就这样吧。——EFC Tech.MCMjun  22.7.30" />
          </StackPanel>
      </local:MyCard>                
   
  <local:MyCard Title="一些有用(才怪)的信息" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
      <StackPanel Margin="25,40,23,15">
         <local:MyHint Margin="0,8,0,2" IsWarn="False"
-                   Text="我们的服务器使用1.18.1-Forge_39.0.59！有需要可以自己再加载optifine！" />
+                   Text="绵外项目服务器使用1.16.5-forge版本！有需要可以自己再加载optifine！" />
      </StackPanel>
  </local:MyCard>
 
@@ -45,7 +45,7 @@
      </StackPanel>
  </local:MyCard>
  
-  <local:MyCard Title="启动游戏" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
+  <local:MyCard Title="启动游戏（可能会出现问题。。。）" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
      <StackPanel Margin="25,40,23,15">
       <local:MyButton Margin="0,8,0,10" Width="400" Height="40" ColorType="Highlight"
                  Text="启动 1.12.2-F+O" EventType="启动游戏" EventData="1.12.2-Forge 14.23.5.2855-OptiFine_G5" ToolTip="一起来van啊~~~"/>
