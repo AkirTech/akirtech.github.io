@@ -4,11 +4,12 @@
                    Text="为了工作室，今天也要努力奋斗！！！" />
      </StackPanel>
 </local:MyCard>
+
 <local:MyCard Title="启动器公告" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
-   <StackPanel Margin="25,40,23,15">
+     <StackPanel Margin="25,40,23,15">
           <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#87CEEB" FontSize="20"
                      Text="欢迎使用EFC Tech调教的MC启动器~这是我们初代的启动器，可能会有bug，但还是祝你玩得愉快~" />
-   </StackPanel>
+    </StackPanel>
 </local:MyCard>
 
 <local:MyCard Title="喵~" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
