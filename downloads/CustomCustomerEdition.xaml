@@ -12,10 +12,10 @@
     </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="喵~" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+<local:MyCard Title="是公告呢~" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
      <StackPanel Margin="25,40,23,15">
-        <local:MyHint Margin="0,8,0,2" IsWarn="True"
-                   Text="服务器公告可能很久都不会更新，感兴趣可以自己研究这个启动器，自己为自己写一个公告~" />
+        <local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="更新日志：20221219：初步完善了从GitHub上获取主页文件的功能。喵~" />
      </StackPanel>
 </local:MyCard>
 
