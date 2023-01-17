@@ -15,7 +15,15 @@
 <local:MyCard Title="是公告呢~" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
      <StackPanel Margin="25,40,23,15">
         <local:MyHint Margin="0,8,0,2" IsWarn="False"
-                   Text="更新日志：20221219：初步完善了从GitHub上获取主页文件的功能。喵~ \n 20230113:闲来无事，吹水一句~喵！！！！" />
+                   Text="更新日志：20221219：初步完善了从GitHub上获取主页文件的功能。喵~ " />
+     </StackPanel>
+          <StackPanel Margin="25,40,23,15">
+        <local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="20230113:闲来无事，吹水一句~喵！！！！" />
+     </StackPanel>
+          <StackPanel Margin="25,40,23,15">
+        <local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="更新日志：20230117:修复了一个小问题~" />
      </StackPanel>
 </local:MyCard>
 
