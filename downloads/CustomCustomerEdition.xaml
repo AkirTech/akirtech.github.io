@@ -13,17 +13,9 @@
 </local:MyCard>
 
 <local:MyCard Title="是公告呢~" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
-     <StackPanel Margin="25,40,23,15">
-        <local:MyHint Margin="0,8,0,2" IsWarn="False"
-                   Text="更新日志：20221219：初步完善了从GitHub上获取主页文件的功能。喵~ " />
-     </StackPanel>
-          <StackPanel Margin="25,40,23,15">
-        <local:MyHint Margin="10，18，10，12" IsWarn="False"
-                   Text="20230113:闲来无事，吹水一句~喵！！！！" />
-     </StackPanel>
           <StackPanel Margin="25,40,23,15">
         <local:MyHint Margin="0,8,0,2" IsWarn="False"
-                   Text="更新日志：20230117:修复了一个小问题~" />
+                   Text="更新日志：20230122:大更新！详见官网" />
      </StackPanel>
 </local:MyCard>
 
@@ -36,7 +28,7 @@
 <local:MyCard Title="Help(没啥卵用)" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
-                   Text="逛官网~" EventType="打开网页" EventData="https://mcmjun.github,io/index.html" ToolTip="EFC Tech的官网，喵~"/>
+                   Text="去官网~" EventType="打开网页" EventData="https://mcmjun.github,io/index.html" ToolTip="EFC Tech的官网，喵~"/>
         <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
                    Text="打开 PCL 日志" EventType="打开文件" EventData="Log1.txt" ToolTip="PCL2 的日志文件就在 PCL 文件夹内，且名为 Log1.txt" />
     </StackPanel>

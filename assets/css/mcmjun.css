@@ -1,0 +1,36 @@
+/*Created by MCMjun
+
+https://mcmjun.github.io/
+
+Thanks!
+
+*/
+
+/*
+
+.cglg_main {
+    @-webkit-keyframes bgmove
+    {
+	    from {background-color:#f1f1f1;}
+	    to {background-color:#c6c6cc;}
+    }
+}
+
+*/
+
+.cglg_dt_list {
+    font-size: 20px;
+    border-color: aquamarine;
+    border: 2px;
+}
+
+.cglg_dd_list {
+    font-size:16px;
+    border-color: beige;
+    border: 2px;
+}
+
+.cglg_dl_list {
+    border: 4px;
+    border-color: bisque;
+}
