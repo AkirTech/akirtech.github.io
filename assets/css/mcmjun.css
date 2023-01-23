@@ -6,7 +6,7 @@ Thanks!
 
 */
 
-/*
+
 
 .cglg_main {
     @-webkit-keyframes bgmove
@@ -16,21 +16,21 @@ Thanks!
     }
 }
 
-*/
+
 
 .cglg_dt_list {
     font-size: 20px;
-    border-color: aquamarine;
+    border-color: #84ecc9;
     border: 2px;
 }
 
 .cglg_dd_list {
     font-size:16px;
-    border-color: beige;
+    border-color: #f6f6de;
     border: 2px;
 }
 
 .cglg_dl_list {
     border: 4px;
-    border-color: bisque;
+    border-color: #ffe4c3;
 }

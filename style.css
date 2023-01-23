@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(90deg, #00C9FF 0%, #a9ffb1 100%);
+    background: linear-gradient(90deg, #00C9FF 0%, #b6ffbe 100%);
     }
 h1 {
     font-size: 32px;
@@ -9,4 +9,7 @@ h1 {
 p {
     font-size: 28px;
     }
-
+    
+/*
+    This css sheet has been abandened.Please go to "root/assets/css/" for css file we currently use.
+*/
