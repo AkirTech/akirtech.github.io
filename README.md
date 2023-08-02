@@ -1,4 +1,4 @@
-# mcmjun.github.io
+# akirtech.github.io
 ### Who am I?
 I am the admin of EFC Tech..  
 I am also the core member of our studios(EFC Studios,now it changed into EFC Tech..haha~)  
